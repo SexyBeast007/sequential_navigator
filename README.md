@@ -9,7 +9,7 @@
 
 iOS | Android
 :-: | :-:
-<video src='https://user-images.githubusercontent.com/70868433/142352951-984c9e13-5f48-4611-85fe-010f2c8007e1.mov' width=180/> | <video src='https://user-images.githubusercontent.com/70868433/142352997-b101ed58-7075-440d-9c08-0de657ed623a.mov' width=180/>
+![iOS Demo](https://drive.google.com/file/d/1PifgDxlq74vpCTq-055EWkdDZWgOzov_/view?usp=sharing) | ![Android Demo](https://drive.google.com/file/d/1eGLgqOo8avZNegbCy8A-_QFhpu1PWezP/view?usp=sharing)
 
 # Contribution note
 
