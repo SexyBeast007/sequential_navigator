@@ -175,4 +175,8 @@ class PageSliver {
   - Solved issues:
     - Consumer rebuilding many widgets at once
       - Fixed using .select
+<<<<<<< HEAD
       - Example: [ref.watch(navigatorServices.select((service) => service.buttonPosition(buttonNumber)))]
+=======
+      - Example: [ref.watch(navigatorServices.select((service) => service.buttonPosition(buttonNumber)))]
+>>>>>>> f53ec8613510c9b5aa3ae6873292481a27b8e4d4
