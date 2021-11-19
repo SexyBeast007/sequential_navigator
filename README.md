@@ -9,9 +9,7 @@
 
 iOS | Android
 :-: | :-:
-![iOS Demo](https://drive.google.com/file/d/1PifgDxlq74vpCTq-055EWkdDZWgOzov_/view?usp=sharing) | ![Android Demo](https://drive.google.com/file/d/1eGLgqOo8avZNegbCy8A-_QFhpu1PWezP/view?usp=sharing)
-
-<iframe src="https://giphy.com/embed/moVZ8ps6ElBx6OFLsg" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moVZ8ps6ElBx6OFLsg">via GIPHY</a></p>
+![iOS Demo](https://media.giphy.com/media/moVZ8ps6ElBx6OFLsg/giphy.gif) | ![Android Demo](https://drive.google.com/file/d/1eGLgqOo8avZNegbCy8A-_QFhpu1PWezP/view?usp=sharing)
 
 # Contribution note
 
