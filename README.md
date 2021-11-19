@@ -9,7 +9,7 @@
 
 iOS | Android
 :-: | :-:
-![iOS Demo](https://media.giphy.com/media/moVZ8ps6ElBx6OFLsg/giphy.gif) | ![Android Demo](https://drive.google.com/file/d/1eGLgqOo8avZNegbCy8A-_QFhpu1PWezP/view?usp=sharing)
+![iOS Demo](https://media.giphy.com/media/moVZ8ps6ElBx6OFLsg/giphy.gif) | ![Android Demo](https://media.giphy.com/media/hisNlrBWM8lvONqaRD/giphy.gif)
 
 # Contribution note
 
