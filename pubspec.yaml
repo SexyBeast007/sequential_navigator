@@ -1,7 +1,7 @@
 name: sequential_navigator
 description: A new Flutter package project.
-version: 0.0.1
-homepage:
+version: 0.0.3
+repository: https://github.com/SexyBeast007/sequential_navigator
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
